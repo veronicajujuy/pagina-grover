@@ -3,7 +3,7 @@
 
 ![](./pagina_grover.jpg)
 
-This is a page develop in css and html. Purely for fun!
+This is a page develop in css and html. Purely for fun! Is not responsive yet, for other time maybe.
 
 ### Links
 
