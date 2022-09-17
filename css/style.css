@@ -318,6 +318,16 @@ a {
     flex-direction:row-reverse; 
 }
 
+.graphics4 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.letters4 {
+    width: 50%;
+    margin-right: 50px;
+}
+
 .section-title4 {
     font-size: 36px;
     width: 100%;
